@@ -8,4 +8,4 @@ This repository adapts the original implementation to support **custom datasets*
 
 Also utilizes DB to quickly grab datasets [Redis](https://github.com/KevinMi2023p/Simple_Redis)
 
-The code was run in a google colab environment.
+The code was run in a google colab environment, or you can use a computer with a dedicated GPU, which I used a RTX 2070.
