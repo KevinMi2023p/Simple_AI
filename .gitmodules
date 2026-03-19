@@ -1,0 +1,3 @@
+[submodule "SemiTime"]
+	path = SemiTime
+	url = git@github.com:haoyfan/SemiTime.git
